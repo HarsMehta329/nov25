@@ -1,3 +1,5 @@
+package BasicExamples;
+
 class Example4
 {
 	int x = 10;

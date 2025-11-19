@@ -1,3 +1,5 @@
+package BasicExamples;
+
 class result1
 {
 	void processData(int marks)

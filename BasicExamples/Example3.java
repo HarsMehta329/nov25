@@ -1,3 +1,5 @@
+package BasicExamples;
+
 class Example3
 {
 	int bal = 10000;

@@ -1,3 +1,5 @@
+package BasicExamples;
+
 class StaticExample2	
 {
 		int num1 = 1;

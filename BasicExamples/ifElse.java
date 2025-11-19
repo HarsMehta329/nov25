@@ -1,3 +1,5 @@
+package BasicExamples;
+
 class ifElse
 {
 	void processData(int dayIndex)

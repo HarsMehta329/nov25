@@ -1,3 +1,5 @@
+package BasicExamples;
+
 class Calculator
 
 {
@@ -32,6 +34,5 @@ class Calculator
 		c.sub();
 		c.mul();
 		c.div();
-		System.out.println(c);
 	}	 
 }

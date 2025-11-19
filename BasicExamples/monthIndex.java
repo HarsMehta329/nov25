@@ -1,3 +1,5 @@
+package BasicExamples;
+
 class monthIndex 
 {
 	void processData(int month)

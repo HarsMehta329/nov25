@@ -1,4 +1,6 @@
-class ParamEx1
+package BasicExamples;
+
+class paramEx1
 {
 	String stdName;
 	int stdRno;
@@ -19,7 +21,7 @@ class ParamEx1
 	}
 	public static void main(String[] a)
 	{
-		ParamEx1 ex1 = new ParamEx1();
+		paramEx1 ex1 = new paramEx1();
 		ex1.setData("Harsh" , 1);
 		ex1.display();
 	}

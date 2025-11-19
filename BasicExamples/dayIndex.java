@@ -1,3 +1,5 @@
+package BasicExamples;
+
 class dayIndex 
 {
 	void processData(int day)

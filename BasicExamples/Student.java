@@ -1,3 +1,5 @@
+package BasicExamples;
+
 class Student
 {
 	String name = "Harsh";
