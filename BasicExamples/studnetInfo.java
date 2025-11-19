@@ -1,3 +1,5 @@
+package BasicExamples;
+
 class studnetInfo
 {
 		String name ="Harsh";

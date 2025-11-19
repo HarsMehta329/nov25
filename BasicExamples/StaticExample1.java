@@ -1,3 +1,5 @@
+package BasicExamples;
+
 class StaticExample1
 {
 		static int x = 10;

@@ -1,3 +1,5 @@
+package BasicExamples;
+
 class Example1
 {
 	int accountNo = 124;

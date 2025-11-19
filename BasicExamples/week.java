@@ -1,3 +1,5 @@
+package BasicExamples;
+
 class week
 {
 	void processData(int week)

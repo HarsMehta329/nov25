@@ -1,4 +1,6 @@
-class ParamEx2
+package BasicExamples;
+
+class paramEx2
 {
 	int rno =10;
 	String name = "Deepak";
@@ -14,7 +16,7 @@ class ParamEx2
 	}
 	public static void main(String[] args)
 	{
-		ParamEx2 ex2 = new ParamEx2();
+		paramEx2 ex2 = new paramEx2();
 		ex2.setData(1, "Harsh");
 		ex2.display();
 		System.out.println(ex2.rno + ":" +ex2.name);

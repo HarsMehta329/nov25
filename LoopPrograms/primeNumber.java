@@ -1,3 +1,5 @@
+package LoopPrograms;
+
 class primeNumber
 {
 	

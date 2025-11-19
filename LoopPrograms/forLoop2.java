@@ -1,19 +1,19 @@
-class forLoop3
+package LoopPrograms;
+
+class forLoop2
 {
 		void loop(int startRange , int endRange)
 		{
 			int sum =0;
 			for(int index = startRange; index<=endRange ; index++)
 			{
-				if(index % 3 == 0)
-				{
-					System.out.println("no is Divisible by 3 is: " +index);
-				}
+				sum +=index;
 			}
+			System.out.println("Sum of  " +startRange+  " and " + endRange + "is" + sum);
 		}
 		public static void main(String[] args)
 		{
-			forLoop3 s1 = new forLoop3();
+			forLoop2 s1 = new forLoop2();
 			s1.loop(10,20);		
 		}
 }
